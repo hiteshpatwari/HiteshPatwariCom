@@ -67,7 +67,7 @@ li a {
 }
 
 .innerContainer {
-    margin: 15px 0;
+    margin: 0 0;
     width: 975px;
     text-align: left;
     color: #d3d3d3;
@@ -109,4 +109,75 @@ tbody {
 
 #mainContent a div {
     font-size: 16px;
+}
+
+.red {
+    background-color: #E74C3C;
+}
+.red:hover {
+    background-color: #C0392B;
+}
+
+.green {
+    background-color: #2ECC71;
+}
+.green:hover {
+    background-color: #27AE60;
+}
+
+.blue {
+    background-color: #3498DB;
+}
+.blue:hover {
+    background-color: #2980B9;
+}
+
+.navyBlue {
+    background-color: #34495E;
+}
+.navyBlue:hover {
+    background-color: #2C3E50;
+}
+
+.darkGreen {
+    background-color: #1ABC9C;
+}
+.darkGreen:hover {
+    background-color: #16A085;
+}
+
+.pink {
+    background-color: #ff69b4;
+}
+.pink:hover {
+    background-color: #ff1439;
+}
+
+.brown {
+    background-color: #d35400;
+}
+.brown:hover {
+    background-color: #8b4513;
+}
+
+.purple {
+    background-color: #9B59B6;
+}
+.purple:hover {
+    background-color: #8E44AD;
+}
+
+.orange {
+    background-color: #F39C12;
+}
+.orange:hover {
+    background-color: #F1C40F;
+}
+
+.seagreen {
+    background-color: #ff0000;
+}
+
+.seagreen:hover {
+    background-color: #cd5c5c;
 }
