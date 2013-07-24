@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    background-color: #383838;
+    font-weight: normal;
+    font-family: Segoe UI Light, Sans-Serif;
+}
+
+.header {
+    background-color: #383838;
+    padding: 35px 0 35px 0;
+    width: 100%;
+    clear:both;
+    float: left;
+    text-align: left;
+}
+
+.header h1 {
+    margin: 0 22.25%;
+    position: relative;
+    left: 0px;
+    width: 900px;
+    font-family: Segoe UI Light, Sans-Serif;
+    font-weight: normal;
+    font-size: 60px;
+    color: #d3d3d3;
+}
+
+.navbar {
+    clear: left;
+    font-family: Segoe UI Light, Sans-Serif;
+    font-weight: normal;
+    width: 22.25%;
+    float: left;
+    background: #383838;
+    text-align: left;
+    text-transform: lowercase;
+}
+
+.navbar ul {
+    list-style: none;
+    width: 95%;
+    padding-left: 5%;
+    margin: auto 0;
+}
+
+.navbar ul li {
+    position: relative;
+    float: left;
+    padding: 10px 10px 20px 0;
+    font-size: 25px;
+}
+
+li a {
+    color : #d3d3d3;
+    text-decoration: none;
+}
+
+#homeL a:visited {
+    text-decoration: none;
+}
+
+.container {
+    clear : right;
+    float: left;
+    width: 77.75%;
+    text-align: left;
+}
+
+.innerContainer {
+    margin: 15px 0;
+    width: 975px;
+    text-align: left;
+    color: #d3d3d3;
+}
+
+.contentDiv {
+    padding: 0px 21px 0px 0;
+    line-height: 1.5;
+    min-height: 450px;
+    height: auto !important;
+    color: #d3d3d3;
+    background-color: #383838;
+}
+
+#mainContent {
+    width: 100%;
+    overflow-y: hidden;
+}
+
+/*
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: aqua;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+*/
+
+#mainContent a{
+    text-decoration: none;
+    color: #d3d3d3;
+}
+
+#mainContent a div {
+    font-size: 16px;
+}
