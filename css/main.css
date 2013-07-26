@@ -181,3 +181,11 @@ tbody {
 .seagreen:hover {
     background-color: #cd5c5c;
 }
+
+#aboutMeLink {
+    width: 160px;
+    height: 160px;
+}
+
+#aboutMeLink:active {
+}
